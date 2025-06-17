@@ -1,6 +1,6 @@
 def main():
     print("Hello, world!")
-    print("update number 1")
+    print("update number 2")
 
 if __name__ == "__main__":
     main()
